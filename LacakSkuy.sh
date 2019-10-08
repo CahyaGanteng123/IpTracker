@@ -9,7 +9,7 @@ me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 
-figlet -f slant Lacak Ip
+figlet -f slant Lacak Ip | lolcat
 echo "<=========================>" | lolcat
 echo "Author  : MR.$€V£N" | lolcat
 echo "Team    : Ninja Cyber Army" | lolcat
